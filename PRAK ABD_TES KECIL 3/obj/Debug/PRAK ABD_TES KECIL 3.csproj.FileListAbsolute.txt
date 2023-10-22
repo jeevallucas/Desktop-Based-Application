@@ -1,0 +1,65 @@
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK ABD_TES KECIL 3.csproj.AssemblyReference.cache
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK ABD_TES KECIL 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK_ABD_TES_KECIL_3.Form1.resources
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK_ABD_TES_KECIL_3.Form2.resources
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK_ABD_TES_KECIL_3.Properties.Resources.resources
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK ABD_TES KECIL 3.csproj.GenerateResource.cache
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK ABD_TES KECIL 3.csproj.CoreCompileInputs.cache
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\PRAK ABD_TES KECIL 3.exe.config
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\PRAK ABD_TES KECIL 3.exe
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\PRAK ABD_TES KECIL 3.pdb
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\EnvDTE.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\stdole.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK ABD_TES KECIL 3.csproj.CopyComplete
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK ABD_TES KECIL 3.exe
+C:\Users\jnana\source\repos\PRAK ABD_TES KECIL 3\obj\Debug\PRAK ABD_TES KECIL 3.pdb

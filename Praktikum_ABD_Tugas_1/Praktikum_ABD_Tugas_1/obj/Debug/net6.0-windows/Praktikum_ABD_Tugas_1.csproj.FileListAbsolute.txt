@@ -1,0 +1,17 @@
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.csproj.AssemblyReference.cache
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.Form1.resources
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.csproj.GenerateResource.cache
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.AssemblyInfoInputs.cache
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.AssemblyInfo.cs
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.csproj.CoreCompileInputs.cache
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\bin\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.exe
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\bin\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.deps.json
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\bin\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.runtimeconfig.json
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\bin\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.dll
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\bin\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.pdb
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.dll
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\refint\Praktikum_ABD_Tugas_1.dll
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.pdb
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\Praktikum_ABD_Tugas_1.genruntimeconfig.cache
+C:\Users\jnana\source\repos\Praktikum_ABD_Tugas_1\Praktikum_ABD_Tugas_1\obj\Debug\net6.0-windows\ref\Praktikum_ABD_Tugas_1.dll

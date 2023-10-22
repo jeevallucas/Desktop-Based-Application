@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="db_toko_bajuDataSet" targetNamespace="http://tempuri.org/db_toko_bajuDataSet.xsd" xmlns:mstns="http://tempuri.org/db_toko_bajuDataSet.xsd" xmlns="http://tempuri.org/db_toko_bajuDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="db_toko_bajuConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="db_toko_bajuConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Toko_Pakaian.Properties.Settings.GlobalReference.Default.db_toko_bajuConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vReportPenjualanPerBarangTableAdapter" GeneratorDataComponentClassName="vReportPenjualanPerBarangTableAdapter" Name="vReportPenjualanPerBarang" UserDataComponentName="vReportPenjualanPerBarangTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_toko_bajuConnectionString (Settings)" DbObjectName="db_toko_baju.dbo.vReportPenjualanPerBarang" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT kd_baju, nm_baju, qty, total FROM dbo.vReportPenjualanPerBarang</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="kd_baju" DataSetColumn="kd_baju" />
+              <Mapping SourceColumn="nm_baju" DataSetColumn="nm_baju" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="total" DataSetColumn="total" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="db_toko_bajuDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="db_toko_bajuDataSet" msprop:Generator_DataSetName="db_toko_bajuDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vReportPenjualanPerBarang" msprop:Generator_RowEvHandlerName="vReportPenjualanPerBarangRowChangeEventHandler" msprop:Generator_RowDeletedName="vReportPenjualanPerBarangRowDeleted" msprop:Generator_RowDeletingName="vReportPenjualanPerBarangRowDeleting" msprop:Generator_RowEvArgName="vReportPenjualanPerBarangRowChangeEvent" msprop:Generator_TablePropName="vReportPenjualanPerBarang" msprop:Generator_RowChangedName="vReportPenjualanPerBarangRowChanged" msprop:Generator_RowChangingName="vReportPenjualanPerBarangRowChanging" msprop:Generator_TableClassName="vReportPenjualanPerBarangDataTable" msprop:Generator_RowClassName="vReportPenjualanPerBarangRow" msprop:Generator_TableVarName="tablevReportPenjualanPerBarang" msprop:Generator_UserTableName="vReportPenjualanPerBarang">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kd_baju" msprop:Generator_ColumnPropNameInRow="kd_baju" msprop:Generator_ColumnPropNameInTable="kd_bajuColumn" msprop:Generator_ColumnVarNameInTable="columnkd_baju" msprop:Generator_UserColumnName="kd_baju" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nm_baju" msprop:Generator_ColumnPropNameInRow="nm_baju" msprop:Generator_ColumnPropNameInTable="nm_bajuColumn" msprop:Generator_ColumnVarNameInTable="columnnm_baju" msprop:Generator_UserColumnName="nm_baju" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="qty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_UserColumnName="qty" type="xs:int" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_UserColumnName="total" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

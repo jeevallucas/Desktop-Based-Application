@@ -1,0 +1,71 @@
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Toko Pakaian.exe.config
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Toko Pakaian.exe
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Toko Pakaian.pdb
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko Pakaian.csproj.AssemblyReference.cache
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko Pakaian.csproj.SuggestedBindingRedirects.cache
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.FormPakaian.resources
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.Properties.Resources.resources
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko Pakaian.csproj.GenerateResource.cache
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko Pakaian.csproj.CoreCompileInputs.cache
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko Pakaian.exe
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko Pakaian.pdb
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.FormPenjualan.resources
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\EnvDTE.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\stdole.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.FormPenjualanPerBarang.resources
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko Pakaian.csproj.CopyComplete
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.FormSortByDate.resources
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.FormStok.resources
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.FormFilter.resources
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.FormLogin.resources
+C:\Users\jnana\source\repos\Toko Pakaian\obj\Debug\Toko_Pakaian.FormUtama.resources

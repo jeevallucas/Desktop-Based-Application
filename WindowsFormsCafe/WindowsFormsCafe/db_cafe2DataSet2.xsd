@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="db_cafe2DataSet2" targetNamespace="http://tempuri.org/db_cafe2DataSet2.xsd" xmlns:mstns="http://tempuri.org/db_cafe2DataSet2.xsd" xmlns="http://tempuri.org/db_cafe2DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="db_cafe2ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="db_cafe2ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsCafe.Properties.Settings.GlobalReference.Default.db_cafe2ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_detailTableAdapter" GeneratorDataComponentClassName="v_detailTableAdapter" Name="v_detail" UserDataComponentName="v_detailTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_cafe2ConnectionString (Settings)" DbObjectName="db_cafe2.dbo.v_detail" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT kd_min, nama_minuman, harga, qty, total FROM dbo.v_detail</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="kd_min" DataSetColumn="kd_min" />
+              <Mapping SourceColumn="nama_minuman" DataSetColumn="nama_minuman" />
+              <Mapping SourceColumn="harga" DataSetColumn="harga" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="total" DataSetColumn="total" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="db_cafe2DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="db_cafe2DataSet2" msprop:Generator_DataSetName="db_cafe2DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_detail" msprop:Generator_RowEvHandlerName="v_detailRowChangeEventHandler" msprop:Generator_RowDeletedName="v_detailRowDeleted" msprop:Generator_RowDeletingName="v_detailRowDeleting" msprop:Generator_RowEvArgName="v_detailRowChangeEvent" msprop:Generator_TablePropName="v_detail" msprop:Generator_RowChangedName="v_detailRowChanged" msprop:Generator_RowChangingName="v_detailRowChanging" msprop:Generator_TableClassName="v_detailDataTable" msprop:Generator_RowClassName="v_detailRow" msprop:Generator_TableVarName="tablev_detail" msprop:Generator_UserTableName="v_detail">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kd_min" msprop:Generator_ColumnPropNameInRow="kd_min" msprop:Generator_ColumnPropNameInTable="kd_minColumn" msprop:Generator_ColumnVarNameInTable="columnkd_min" msprop:Generator_UserColumnName="kd_min" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nama_minuman" msprop:Generator_ColumnPropNameInRow="nama_minuman" msprop:Generator_ColumnPropNameInTable="nama_minumanColumn" msprop:Generator_ColumnVarNameInTable="columnnama_minuman" msprop:Generator_UserColumnName="nama_minuman">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="harga" msprop:Generator_ColumnPropNameInRow="harga" msprop:Generator_ColumnPropNameInTable="hargaColumn" msprop:Generator_ColumnVarNameInTable="columnharga" msprop:Generator_UserColumnName="harga" type="xs:int" minOccurs="0" />
+              <xs:element name="qty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_UserColumnName="qty" type="xs:int" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_UserColumnName="total" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
